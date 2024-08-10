@@ -1,0 +1,24 @@
+.layer_hover{
+   background-color: #1ABC9C;
+   opacity: 0;
+   transition: opacity 1s;
+   -webkit-transition: opacity 1s;
+   -moz-transition: opacity 1s;
+   -ms-transition: opacity 1s;
+   -o-transition: opacity 1s;
+}
+.layer_hover:hover{
+  opacity: 1;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+img{
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}

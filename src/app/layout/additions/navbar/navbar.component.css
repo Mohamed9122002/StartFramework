@@ -1,0 +1,19 @@
+/* rgb(44, 62, 80)*/
+/* rgb(26, 188, 156) */
+a{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+a:hover {
+  color: white;
+}
+.active-bg{
+  background-color: rgb(26, 188, 156);
+  color: white;
+  border-radius:1rem ;
+  -webkit-border-radius:1rem ;
+  -moz-border-radius:1rem ;
+  -ms-border-radius:1rem ;
+  -o-border-radius:1rem ;
+}

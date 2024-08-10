@@ -1,0 +1,13 @@
+.icon{
+  display: block;
+  width: 2rem;
+  height: 2rem;
+  line-height: 1.8;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}

@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-main{
+  background-color: rgb(44, 62, 80);
+}
+
+.bg-copy{
+  background-color: #1A252F;
+}
+.bg{
+  background-color: #1ABC9C;
+}
+.line{
+  width: 100px;
+  height: 4px;
+  background-color: white;
+}
